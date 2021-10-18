@@ -1,6 +1,6 @@
 # Drumkit using JavaScript
 
-![](/DrumkitScreenshot.png)
+![](/DrumkitScreenshot1.png)
 
 This is kind of first project I made using JavaScript
 
